@@ -1,0 +1,8 @@
+[packager]
+language = "python"
+
+  [packager.features]
+  # Disables the package search sidebar
+  packageSearch = false
+  # Disabled package guessing
+  guessImports = false
