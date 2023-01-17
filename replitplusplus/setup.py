@@ -1,6 +1,6 @@
 import setuptools
 
-with open("README.md", "r") as fhandle:
+with open("replitplusplus/README.md", "r") as fhandle:
     long_description = fhandle.read() # Your README.md file will be used as the long description!
 
 setuptools.setup(
