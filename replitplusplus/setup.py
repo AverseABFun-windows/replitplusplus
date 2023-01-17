@@ -11,7 +11,7 @@ setuptools.setup(
     description="The replit package, but better!", # A short description here!
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="", # Link your package website here! (most commonly a GitHub repo)
+    url="https://github.com/AverseABFun-windows/replitplusplus", # Link your package website here! (most commonly a GitHub repo)
     packages=setuptools.find_packages(), # A list of all packages for Python to distribute!
     classifiers=[
         "Programming Language :: Python :: 3",
